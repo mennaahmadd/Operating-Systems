@@ -1,0 +1,5 @@
+print Enter_file_name
+assign a input // program 4 
+print Enter_file_data
+assign b input // assign a b 
+writeFile a b

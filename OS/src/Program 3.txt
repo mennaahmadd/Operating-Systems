@@ -1,0 +1,6 @@
+print Enter_first_number
+assign a input 5
+print Enter_second_number
+assign b input 4
+add a b
+print a
